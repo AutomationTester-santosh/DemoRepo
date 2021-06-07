@@ -9,4 +9,9 @@ public void test1()
 {
 	System.out.println("Test case1");
 }
+
+public void register()
+{
+	System.out.println("Register user first");
+}
 }
